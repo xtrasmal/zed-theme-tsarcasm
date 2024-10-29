@@ -1,6 +1,6 @@
 id = "tsarcasm"
 name = "TSARCASM Theme"
-version = "0.0.8"
+version = "0.0.9"
 schema_version = 1
 authors = ["Xander <1174877+xtrasmal@users.noreply.github.com>"]
 description = "Lighten up, it's a dark Zed theme"
