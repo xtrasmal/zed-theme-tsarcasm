@@ -67,6 +67,7 @@
         "editor.active_wrap_guide": "#09090B90",
         "editor.document_highlight.read_background": null,
         "editor.document_highlight.write_background": null,
+        "editor.document_highlight.bracket_background": "#09090B20",
         "terminal.background": "#09090B30",
         "terminal.foreground": null,
         "terminal.bright_foreground": null,
@@ -328,8 +329,7 @@
             "font_weight": 900
           },
           "tag": {
-            "color": "#60a5fa",
-            "font_style": null,
+            "color": "#383840",
             "font_weight": null
           },
           "text.literal": {
